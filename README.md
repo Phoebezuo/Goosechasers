@@ -73,6 +73,7 @@ The fourth argument, <EXITS> , should be the name of a ﬁle that contains a lis
 It is possible for the <EXITS> conﬁguration ﬁle to be empty - in that case, the player has no choice but to scare oﬀ all other Creatures to win!
 
 ## Usage & Commands
+![commands](https://github.com/Phoebezuo/Goosechasers/blob/master/commands.png)
 
 ``` py
 python3 game.py sample_paths.txt sample_items.txt sample_chasers.txt sample_exits.txt
